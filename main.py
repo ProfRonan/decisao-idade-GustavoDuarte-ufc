@@ -1,11 +1,11 @@
 a = int(input())
 
 if a < 0:
-    print("impossível!")
+    print("Impossível!")
 if a < 18:
-    print("não precisa se alistar.")
+    print("Não precisa se alistar.")
 if a >= 18 and a <= 65 and a != 64:
-    print("eita!")
+    print("Eita!")
 if a == 64:
     print("Não esqueça de votar na próxima eleição.")
 if a >65:
